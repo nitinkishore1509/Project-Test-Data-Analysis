@@ -1,0 +1,11 @@
+Project_Name,OEM,Project_id,Start_Date,End_Date,Left_Shift,Buffer_Period
+Orion,Broadcom,B_x1,05-Jan-23,08-Mar-24,,
+Onfi,Broadcom,B_x2,05-Jan-23,24-Feb-24,,
+Dimmer_Switch,Broadcom,B_x3,05-Jan-23,15-Mar-24,,
+CIT,NEC,N_x1,05-Jan-23,30-Mar-24,,
+Avenge,Dell,D_x1,05-Jan-23,08-Mar-24,,
+TrailBlaze,Cisco,C_x1,05-Jan-23,24-Feb-24,,
+ThunderBolt,IBM,I_x1,05-Jan-23,15-Mar-24,,
+SandySpring,Intel,IN_x1,05-Jan-23,30-Mar-24,,
+Software_Raid,Intel ,IN_x2,05-Jan-23,30-Mar-24,,
+Software_Raid,Dell,D_x2,05-Jan-23,30-Mar-24,,
